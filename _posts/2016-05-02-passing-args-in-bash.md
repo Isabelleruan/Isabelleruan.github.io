@@ -6,7 +6,7 @@ title: Passing Arguments in Shell Script
 **TL;DR** Just skip to the [good part](#the-good-part)
 
 # Basic Arguments
-The other day I started making this shell script program [spotify-now](https://github.com/getmicah/spotify-now), which gets information on the current Spotify song using the dbus message from the media player. When writing this script I wanted to be able to pass in parameters to the script from the command line using arguments.
+The other day I started making this shell script program [spotify-now](https://github.com/getIsabelle/spotify-now), which gets information on the current Spotify song using the dbus message from the media player. When writing this script I wanted to be able to pass in parameters to the script from the command line using arguments.
 
 This is easy as all you have do is use the `${n}` variable to get the parameter (n being the position of the argument). With my script it looked something like this:
 
@@ -58,4 +58,4 @@ To do this sort of thing in shell script all you have to do is replace the keywo
     Kendrick Lamar - To Pimp A Butterfly
 
 <br><br>
-Of course all this code is on my [Github](https://github.com/getmicah/spotify-now) and please do fork it and make pull requests regarding any issues or improvements you may have with my code.
+Of course all this code is on my [Github](https://github.com/getIsabelle/spotify-now) and please do fork it and make pull requests regarding any issues or improvements you may have with my code.

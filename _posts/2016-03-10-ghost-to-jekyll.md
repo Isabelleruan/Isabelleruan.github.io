@@ -5,7 +5,7 @@ title: Why I Switched from Ghost to Jekyll
 
 **TL;DR** Use [Jekyll and Github Pages](https://help.github.com/articles/about-github-pages-and-jekyll/) for a cheap and maintainable blog.
 
-I made a new blog! For the past few months I had been content with [Ghost](https://ghost.org), the publishing platform for professional bloggers. I enjoyed its simplicity and even made a couple themes for it (check them out on my [Github](https://github.com/getmicah)), but as time went on I got tired of paying for server time every month. With all the buzz about "static blogs" I decided to give it a try. Inevitably, I came across Github Pages and Jekyll. Free hosting and a static site blog? Yes, Please.
+I made a new blog! For the past few months I had been content with [Ghost](https://ghost.org), the publishing platform for professional bloggers. I enjoyed its simplicity and even made a couple themes for it (check them out on my [Github](https://github.com/getIsabelle)), but as time went on I got tired of paying for server time every month. With all the buzz about "static blogs" I decided to give it a try. Inevitably, I came across Github Pages and Jekyll. Free hosting and a static site blog? Yes, Please.
 
 It wasn't like there was anything wrong with Ghost. I was just tired of paying to host it on a server. Also, there were quite a few things that I didn't even realize I'd like before using Jekyll.
 

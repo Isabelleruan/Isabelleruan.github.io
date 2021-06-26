@@ -3,7 +3,7 @@ layout: post
 title: What the Rice?
 ---
 
-**TL;DR** Here are my [dotfiles](https://github.com/getmicah/dotfiles).
+**TL;DR** Here are my [dotfiles](https://github.com/getIsabelle/dotfiles).
 
 *Disclaimer*: I am in no way a ricing expert. This guide is intended for fellow beginners confused on the very basics when it comes to the customization of their Unix system.
 
@@ -40,4 +40,4 @@ Here's a list of what I'm using on my Arch Linux System:
 * Files: pcmanfm
 
 <br>
-All the [dotfiles](https://github.com/getmicah/dotfiles) can be found on Github. If you want to see a gallery of what my desktop looks like at the moment, check out my [reddit post](https://www.reddit.com/r/unixporn/comments/4f3rm0/bspwm_some_blue/) where can find some more details and a gallery.
+All the [dotfiles](https://github.com/getIsabelle/dotfiles) can be found on Github. If you want to see a gallery of what my desktop looks like at the moment, check out my [reddit post](https://www.reddit.com/r/unixporn/comments/4f3rm0/bspwm_some_blue/) where can find some more details and a gallery.
